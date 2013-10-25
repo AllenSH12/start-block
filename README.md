@@ -14,6 +14,6 @@ You'll need to have node, npm (which should come with node), grunt & the grunt-c
         npm install grunt
         npm install grunt-cli
         
-You can also install grunt & the grunt-cli globally for easier re-use in future projects
+Alternatively, you could install grunt & the grunt-cli globally for easier re-use in future projects
 
         npm install -g grunt
