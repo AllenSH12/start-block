@@ -1,0 +1,6 @@
+{
+	"src/less/styles.less": "src/less/styles.less",
+	"src/templates/layouts/layout.hbs": "src/templates/layouts/layout.hbs",
+	"src/templates/pages/index.hbs": "src/templates/pages/index.hbs",
+	"src/templates/parts/header.hbs": "src/templates/parts/header.hbs"
+}
