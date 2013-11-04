@@ -1,19 +1,14 @@
 start-block
 ===========
 
-A template for web dev using Grunt.js, Handlebars &amp; LESS
+A grunt-init template for web dev using Grunt.js, Handlebars &amp; LESS
 
 To get started:
 
-        cd /location/of/repo/
-        npm install
-
-You'll need to have node, npm (which should come with node), grunt & the grunt-cli installed as well
-
-        apt-get install nodejs
-        npm install grunt
-        npm install grunt-cli
+        git clone https://github.com/AllenSH12/start-block.git ~/.grunt-init
         
-Alternatively, you could install grunt & the grunt-cli globally for easier re-use in future projects
-
-        npm install -g grunt
+        cd /new/projet/destination
+        
+        grunt-init start-block
+        
+        npm install
